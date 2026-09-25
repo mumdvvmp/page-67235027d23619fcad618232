@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.xn--kelecloud-yi5p512l.com/sitemap.xml
